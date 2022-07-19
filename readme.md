@@ -1,6 +1,6 @@
 # Tasks:
 #### 1) True printer.
-Create a program tha will print "true" to console. Printing command should be placed inside if block
+Create a program that will print "true" to console. Printing command should be placed inside if block
 which will have "true" in condition part.  Program should be implemented in code snippet:
 
 
@@ -10,7 +10,7 @@ which will have "true" in condition part.  Program should be implemented in code
         }
 
 #### 2) False printer.
-Create a program tha will print "false" to console from else part of "if" block. Printing command
+Create a program that will print "false" to console from else part of "if" block. Printing command
 should be placed inside else block, whereas "if" condition will have "false" in condition part.  Program should be
 implemented in code snippet:
 
@@ -37,7 +37,7 @@ code snippet:
 
 
 #### 4) Integer comparison.
-Fill the gaps in the code snippet so as to program compiles and prints: "Hello world!"
+Fill the gaps in the code snippet so as the program compiles and prints: "Hello, World!"
 
 
         public class IntegerComparison {
@@ -45,18 +45,18 @@ Fill the gaps in the code snippet so as to program compiles and prints: "Hello w
                   int x = 50;
                   int y = 50;
                   __ (x __ y) {
-                         System.out.println("Hello World!");
+                         System.out.println("Hello, World!");
                   }
            }
         }
 
 
-#### 5) Positive number determainer.
+#### 5) Positive number determiner.
 Create a program that will determine and print if consumed number is positive (in this
-case print true) or no(print false) using if else block. Program should ne implemented inside of code snippet:
+case print true) or no (print false) using if-else block. The program should be implemented inside of code snippet:
 
 
-        public class PositiveNumberDetermainer {
+        public class PositiveNumberDeterminer {
            public void isPositive(int numberToBeDetermined) {
            }
         }

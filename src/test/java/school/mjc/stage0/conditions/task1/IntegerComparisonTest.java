@@ -18,7 +18,7 @@ class IntegerComparisonTest extends BaseIOTest {
     void mainPrintsHelloWorld() {
         IntegerComparison.main(null);
 
-        assertEquals("Hello World!\n", updateLineSpliterators(outContent.toString()));
+        assertEquals("Hello, World!\n", updateLineSpliterators(outContent.toString()));
     }
 
 

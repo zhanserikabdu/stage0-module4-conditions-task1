@@ -1,6 +1,6 @@
 package school.mjc.stage0.conditions.task1;
 
-public class PositiveNumberDetermainer {
+public class PositiveNumberDeterminer {
     public void isPositive(int numberToBeDetermined) {
     }
 }
