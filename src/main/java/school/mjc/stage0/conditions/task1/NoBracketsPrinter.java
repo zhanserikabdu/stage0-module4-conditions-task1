@@ -4,8 +4,8 @@ public class NoBracketsPrinter {
     public static void main(String[] args) {
         if(false) {
             System.out.println("The statement is true");
-        }else {
-            System.out.println("");
+
+            System.out.println("I'm out of checking");
         }
     }
 }
